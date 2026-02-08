@@ -1,4 +1,4 @@
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 435,719 | 🐛 67 | 📅 2026-01-28
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 435,878 | 🐛 68 | 📅 2026-01-28
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/matiassingers/awesome-slack/master/awesome-slack-pink.png" alt="Logo" width="200px">
@@ -139,7 +139,7 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 
 ### Python
 
-* [wee-slack](https://github.com/rawdigits/wee-slack) ⭐ 2,592 | 🐛 111 | 🌐 Python | 📅 2026-01-07 - A WeeChat plugin for Slack
+* [wee-slack](https://github.com/rawdigits/wee-slack) ⭐ 2,593 | 🐛 111 | 🌐 Python | 📅 2026-01-07 - A WeeChat plugin for Slack
 * [slackbot](https://github.com/lins05/slackbot) ⭐ 1,282 | 🐛 68 | 🌐 Python | 📅 2023-03-14 - A chat bot for Slack
 * [slacker-cli](https://github.com/juanpabloaj/slacker-cli) ⭐ 186 | 🐛 4 | 🌐 Python | 📅 2023-01-13 - Messages to slack from the command line
 * [tasks-app](https://github.com/slackapi/tasks-app) ⚠️ Archived - Simple task management app produced by Slack
