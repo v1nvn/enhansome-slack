@@ -1,4 +1,4 @@
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 443,833 | 🐛 75 | 📅 2026-03-04
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 444,208 | 🐛 75 | 📅 2026-03-09
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/matiassingers/awesome-slack/master/awesome-slack-pink.png" alt="Logo" width="200px">
@@ -76,9 +76,9 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 ### Python
 
 * [python-slack-sdk](https://github.com/slackapi/python-slack-sdk) ⭐ 3,994 | 🐛 42 | 🌐 Python | 📅 2026-03-04 - Slack's official SDK for Python
-* [bolt-python](https://github.com/slackapi/bolt-python) ⭐ 1,277 | 🐛 33 | 🌐 Python | 📅 2026-03-06 - Slack's official Python framework for building Slack apps
+* [bolt-python](https://github.com/slackapi/bolt-python) ⭐ 1,277 | 🐛 32 | 🌐 Python | 📅 2026-03-09 - Slack's official Python framework for building Slack apps
 * [python-slack-events-api](https://github.com/slackapi/python-slack-events-api) ⭐ 342 | 🐛 2 | 🌐 Python | 📅 2025-11-14 - Slack Events API adapter for Python
-* [slack-php-api](https://github.com/jolicode/slack-php-api) ⭐ 251 | 🐛 13 | 🌐 PHP | 📅 2025-04-01 - PHP Slack client based on the official OpenAPI specification
+* [slack-php-api](https://github.com/jolicode/slack-php-api) ⭐ 251 | 🐛 14 | 🌐 PHP | 📅 2025-04-01 - PHP Slack client based on the official OpenAPI specification
 * [django-slack](https://github.com/lamby/django-slack) ⭐ 245 | 🐛 9 | 🌐 Python | 📅 2025-07-11 - Slack integration for Django, using the templating engine to generate messages
 * [slacker-cli](https://github.com/juanpabloaj/slacker-cli) ⭐ 186 | 🐛 4 | 🌐 Python | 📅 2023-01-13 - Messages to slack from the command line
 * [blockkit](https://github.com/imryche/blockkit) ⭐ 103 | 🐛 4 | 🌐 Python | 📅 2026-01-18 - A fast way to build Block Kit interfaces in Python
@@ -134,7 +134,7 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 
 ### PHP
 
-* [monolog](https://github.com/Seldaek/monolog) ⭐ 21,391 | 🐛 33 | 🌐 PHP | 📅 2026-02-23 - Sends your logs to Slack
+* [monolog](https://github.com/Seldaek/monolog) ⭐ 21,394 | 🐛 33 | 🌐 PHP | 📅 2026-02-23 - Sends your logs to Slack
 * [MantisBT-Slack](https://github.com/infojunkie/MantisBT-Slack) ⭐ 48 | 🐛 10 | 🌐 PHP | 📅 2025-06-10 - MantisBT plugin to send bug updates to Slack
 
 ### Python
