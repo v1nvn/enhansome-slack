@@ -1,4 +1,4 @@
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 456,116 | 🐛 64 | 📅 2026-04-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 456,408 | 🐛 65 | 📅 2026-04-02
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/matiassingers/awesome-slack/master/awesome-slack-pink.png" alt="Logo" width="200px">
@@ -47,7 +47,7 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 
 ### Go
 
-* [webhook](https://github.com/adnanh/webhook) ⭐ 11,747 | 🐛 118 | 🌐 Go | 📅 2026-02-12 - Easily run commands in response to HTTP webhook requests from Slack
+* [webhook](https://github.com/adnanh/webhook) ⭐ 11,749 | 🐛 118 | 🌐 Go | 📅 2026-02-12 - Easily run commands in response to HTTP webhook requests from Slack
 
 ### Java
 
@@ -56,8 +56,8 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 
 ### JavaScript/TypeScript
 
-* [node-slack-sdk](https://github.com/slackapi/node-slack-sdk) ⭐ 3,363 | 🐛 62 | 🌐 TypeScript | 📅 2026-04-13 - Slack's official SDK for Node.js
-* [bolt-js](https://github.com/slackapi/bolt-js) ⭐ 2,901 | 🐛 74 | 🌐 TypeScript | 📅 2026-04-15 - Slack's official JavaScript framework for building Slack apps
+* [node-slack-sdk](https://github.com/slackapi/node-slack-sdk) ⭐ 3,362 | 🐛 62 | 🌐 TypeScript | 📅 2026-04-13 - Slack's official SDK for Node.js
+* [bolt-js](https://github.com/slackapi/bolt-js) ⭐ 2,901 | 🐛 74 | 🌐 TypeScript | 📅 2026-04-17 - Slack's official JavaScript framework for building Slack apps
 * [slack-block-builder](https://github.com/raycharius/slack-block-builder) ⭐ 626 | 🐛 21 | 🌐 TypeScript | 📅 2024-08-18 - Lightweight Node.js library for building Slack Block Kit UIs, with a declarative syntax inspired by SwiftUI
 * [jsx-slack](https://github.com/yhatt/jsx-slack) ⭐ 497 | 🐛 15 | 🌐 TypeScript | 📅 2026-02-26 - Build JSON object for Slack Block Kit surfaces from JSX
 
@@ -75,17 +75,17 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 
 ### Python
 
-* [python-slack-sdk](https://github.com/slackapi/python-slack-sdk) ⭐ 3,999 | 🐛 45 | 🌐 Python | 📅 2026-04-10 - Slack's official SDK for Python
-* [bolt-python](https://github.com/slackapi/bolt-python) ⭐ 1,290 | 🐛 28 | 🌐 Python | 📅 2026-04-15 - Slack's official Python framework for building Slack apps
+* [python-slack-sdk](https://github.com/slackapi/python-slack-sdk) ⭐ 3,997 | 🐛 45 | 🌐 Python | 📅 2026-04-10 - Slack's official SDK for Python
+* [bolt-python](https://github.com/slackapi/bolt-python) ⭐ 1,291 | 🐛 28 | 🌐 Python | 📅 2026-04-15 - Slack's official Python framework for building Slack apps
 * [python-slack-events-api](https://github.com/slackapi/python-slack-events-api) ⭐ 342 | 🐛 2 | 🌐 Python | 📅 2025-11-14 - Slack Events API adapter for Python
 * [slack-php-api](https://github.com/jolicode/slack-php-api) ⭐ 254 | 🐛 14 | 🌐 PHP | 📅 2026-03-10 - PHP Slack client based on the official OpenAPI specification
 * [django-slack](https://github.com/lamby/django-slack) ⭐ 245 | 🐛 9 | 🌐 Python | 📅 2025-07-11 - Slack integration for Django, using the templating engine to generate messages
-* [slacker-cli](https://github.com/juanpabloaj/slacker-cli) ⭐ 186 | 🐛 4 | 🌐 Python | 📅 2023-01-13 - Messages to slack from the command line
+* [slacker-cli](https://github.com/juanpabloaj/slacker-cli) ⭐ 187 | 🐛 4 | 🌐 Python | 📅 2023-01-13 - Messages to slack from the command line
 * [blockkit](https://github.com/imryche/blockkit) ⭐ 104 | 🐛 5 | 🌐 Python | 📅 2026-01-18 - A fast way to build Block Kit interfaces in Python
 * [slackblocks](https://github.com/nicklambourne/slackblocks) ⭐ 75 | 🐛 0 | 🌐 Python | 📅 2025-11-03 - Python API for building Slack Block Kit messages
 * [django-slack-oauth](https://github.com/izdi/django-slack-oauth) ⭐ 55 | 🐛 3 | 🌐 Python | 📅 2020-07-19 - Slack OAuth module for Django
 * [slashbot](https://github.com/ebrassell/slashbot) ⭐ 17 | 🐛 0 | 🌐 Python | 📅 2021-10-31 - An easy way to create slash commands using AWS Lambda functions
-* [boltworks](https://github.com/YSaxon/boltworks) ⭐ 1 | 🐛 11 | 🌐 Python | 📅 2024-05-21 - Extensions to Slack's bolt framework: expandable GUIs, easier callbacks, richer CLIs
+* [boltworks](https://github.com/YSaxon/boltworks) ⭐ 2 | 🐛 11 | 🌐 Python | 📅 2024-05-21 - Extensions to Slack's bolt framework: expandable GUIs, easier callbacks, richer CLIs
 
 ### R
 
@@ -93,7 +93,7 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 
 ### Ruby
 
-* [slack-notifier](https://github.com/stevenosloan/slack-notifier) ⭐ 1,489 | 🐛 24 | 🌐 Ruby | 📅 2023-04-24 - A simple wrapper for posting to Slack
+* [slack-notifier](https://github.com/stevenosloan/slack-notifier) ⭐ 1,490 | 🐛 24 | 🌐 Ruby | 📅 2023-04-24 - A simple wrapper for posting to Slack
 * [slack-ruby-bot-server](https://github.com/slack-ruby/slack-ruby-bot-server) ⭐ 271 | 🐛 21 | 🌐 Ruby | 📅 2025-12-30 - Ruby library for building Slack applications
 * [slack-notify](https://github.com/sosedoff/slack-notify) ⭐ 93 | 🐛 3 | 🌐 Ruby | 📅 2020-12-23 - Send notifications to Slack
 * [slack-ruby-block-kit](https://github.com/CGA1123/slack-ruby-block-kit) ⭐ 75 | 🐛 1 | 🌐 Ruby | 📅 2025-02-24 - A ruby wrapper for Slack's Block Kit
@@ -126,7 +126,7 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 
 ### JavaScript/Typescript
 
-* [slack-github-action](https://github.com/slackapi/slack-github-action) ⭐ 1,307 | 🐛 20 | 🌐 JavaScript | 📅 2026-04-14 - Send data into Slack using this GitHub Action
+* [slack-github-action](https://github.com/slackapi/slack-github-action) ⭐ 1,308 | 🐛 19 | 🌐 JavaScript | 📅 2026-04-17 - Send data into Slack using this GitHub Action
 * [tasks-app](https://github.com/slackapi/tasks-app) ⚠️ Archived - Simple task management app produced by Slack
 * [tesla-slack](https://github.com/heikkipora/tesla-slack) ⚠️ Archived - Track your Tesla from Slack
 * [definition-app](https://github.com/slackapi/definition-app) ⚠️ Archived - App for storing and accessing company-specific phrases
@@ -141,7 +141,7 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 
 * [wee-slack](https://github.com/rawdigits/wee-slack) ⭐ 2,600 | 🐛 116 | 🌐 Python | 📅 2026-04-08 - A WeeChat plugin for Slack
 * [slackbot](https://github.com/lins05/slackbot) ⭐ 1,279 | 🐛 68 | 🌐 Python | 📅 2023-03-14 - A chat bot for Slack
-* [slacker-cli](https://github.com/juanpabloaj/slacker-cli) ⭐ 186 | 🐛 4 | 🌐 Python | 📅 2023-01-13 - Messages to slack from the command line
+* [slacker-cli](https://github.com/juanpabloaj/slacker-cli) ⭐ 187 | 🐛 4 | 🌐 Python | 📅 2023-01-13 - Messages to slack from the command line
 * [tasks-app](https://github.com/slackapi/tasks-app) ⚠️ Archived - Simple task management app produced by Slack
 
 ### Ruby
