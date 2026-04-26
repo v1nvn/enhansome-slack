@@ -1,4 +1,4 @@
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 458,701 | 🐛 68 | 📅 2026-04-19
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 459,029 | 🐛 68 | 📅 2026-04-19
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/matiassingers/awesome-slack/master/awesome-slack-pink.png" alt="Logo" width="200px">
@@ -37,7 +37,7 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 
 ### C\#
 
-* [SlackAPI](https://github.com/Inumedia/SlackAPI) ⭐ 453 | 🐛 81 | 🌐 C# | 📅 2023-08-31 - A third-party implementation of Slack's API written in C#
+* [SlackAPI](https://github.com/Inumedia/SlackAPI) ⭐ 454 | 🐛 81 | 🌐 C# | 📅 2023-08-31 - A third-party implementation of Slack's API written in C#
 * [Slack.Webhooks](https://github.com/nerdfury/Slack.Webhooks) ⭐ 173 | 🐛 14 | 🌐 C# | 📅 2022-12-07 - A library to work with Slack webhooks more easily
 * [margiebot](https://github.com/jammerware/margiebot) ⭐ 123 | 🐛 12 | 🌐 C# | 📅 2022-06-23 - A .NET library designed to make building bots for Slack fast, easy, and fun
 
@@ -47,7 +47,7 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 
 ### Go
 
-* [webhook](https://github.com/adnanh/webhook) ⭐ 11,769 | 🐛 118 | 🌐 Go | 📅 2026-02-12 - Easily run commands in response to HTTP webhook requests from Slack
+* [webhook](https://github.com/adnanh/webhook) ⭐ 11,770 | 🐛 118 | 🌐 Go | 📅 2026-02-12 - Easily run commands in response to HTTP webhook requests from Slack
 
 ### Java
 
@@ -134,12 +134,12 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 
 ### PHP
 
-* [monolog](https://github.com/Seldaek/monolog) ⭐ 21,400 | 🐛 35 | 🌐 PHP | 📅 2026-04-13 - Sends your logs to Slack
+* [monolog](https://github.com/Seldaek/monolog) ⭐ 21,401 | 🐛 35 | 🌐 PHP | 📅 2026-04-13 - Sends your logs to Slack
 * [MantisBT-Slack](https://github.com/infojunkie/MantisBT-Slack) ⭐ 47 | 🐛 10 | 🌐 PHP | 📅 2025-06-10 - MantisBT plugin to send bug updates to Slack
 
 ### Python
 
-* [wee-slack](https://github.com/rawdigits/wee-slack) ⭐ 2,599 | 🐛 116 | 🌐 Python | 📅 2026-04-08 - A WeeChat plugin for Slack
+* [wee-slack](https://github.com/rawdigits/wee-slack) ⭐ 2,600 | 🐛 116 | 🌐 Python | 📅 2026-04-08 - A WeeChat plugin for Slack
 * [slackbot](https://github.com/lins05/slackbot) ⭐ 1,279 | 🐛 68 | 🌐 Python | 📅 2023-03-14 - A chat bot for Slack
 * [slacker-cli](https://github.com/juanpabloaj/slacker-cli) ⭐ 187 | 🐛 4 | 🌐 Python | 📅 2023-01-13 - Messages to slack from the command line
 * [tasks-app](https://github.com/slackapi/tasks-app) ⚠️ Archived - Simple task management app produced by Slack
