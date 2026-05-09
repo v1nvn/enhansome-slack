@@ -92,7 +92,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-08T03:15:48Z",
+            "last_commit": "2026-05-08T23:31:00Z",
             "owner": "slackapi",
             "repo": "bolt-js",
             "stars": 2909
@@ -118,7 +118,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-07T22:04:53Z",
+            "last_commit": "2026-05-08T20:03:05Z",
             "owner": "slackapi",
             "repo": "node-slack-sdk",
             "stars": 3370
@@ -134,7 +134,7 @@
             "last_commit": "2024-08-18T08:05:17Z",
             "owner": "raycharius",
             "repo": "slack-block-builder",
-            "stars": 629
+            "stars": 630
           }
         }
       ],
@@ -237,7 +237,7 @@
             "last_commit": "2026-05-05T14:55:19Z",
             "owner": "slackapi",
             "repo": "bolt-python",
-            "stars": 1300
+            "stars": 1301
           }
         },
         {
@@ -289,7 +289,7 @@
             "last_commit": "2026-05-06T14:44:02Z",
             "owner": "slackapi",
             "repo": "python-slack-sdk",
-            "stars": 4002
+            "stars": 4003
           }
         },
         {
@@ -649,7 +649,7 @@
             "last_commit": "2026-04-08T20:29:02Z",
             "owner": "wee-slack",
             "repo": "wee-slack",
-            "stars": 2602
+            "stars": 2603
           }
         }
       ],
@@ -725,7 +725,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-08T04:55:38.025Z",
+    "last_updated": "2026-05-09T05:24:34.365Z",
     "original_repository": "matiassingers/awesome-slack",
     "source_repository": "v1nvn/enhansome-slack",
     "source_repository_description": null,
