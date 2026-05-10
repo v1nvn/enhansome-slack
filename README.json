@@ -92,7 +92,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-08T23:31:00Z",
+            "last_commit": "2026-05-09T18:40:34Z",
             "owner": "slackapi",
             "repo": "bolt-js",
             "stars": 2909
@@ -299,7 +299,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2025-11-03T14:24:34Z",
+            "last_commit": "2026-05-10T02:43:36Z",
             "owner": "nicklambourne",
             "repo": "slackblocks",
             "stars": 75
@@ -520,7 +520,7 @@
             "last_commit": "2026-05-08T00:58:01Z",
             "owner": "slackapi",
             "repo": "slack-github-action",
-            "stars": 1315
+            "stars": 1317
           }
         },
         {
@@ -610,7 +610,7 @@
             "last_commit": "2023-03-14T14:41:57Z",
             "owner": "scrapinghub",
             "repo": "slackbot",
-            "stars": 1279
+            "stars": 1278
           }
         },
         {
@@ -725,7 +725,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-09T05:24:34.365Z",
+    "last_updated": "2026-05-10T05:40:06.895Z",
     "original_repository": "matiassingers/awesome-slack",
     "source_repository": "v1nvn/enhansome-slack",
     "source_repository_description": null,
