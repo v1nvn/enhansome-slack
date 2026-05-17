@@ -121,7 +121,7 @@
             "last_commit": "2026-05-14T22:31:49Z",
             "owner": "slackapi",
             "repo": "node-slack-sdk",
-            "stars": 3374
+            "stars": 3375
           }
         },
         {
@@ -591,7 +591,7 @@
             "last_commit": "2026-04-13T12:46:28Z",
             "owner": "Seldaek",
             "repo": "monolog",
-            "stars": 21392
+            "stars": 21391
           }
         }
       ],
@@ -725,7 +725,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-16T05:29:40.135Z",
+    "last_updated": "2026-05-17T05:51:28.867Z",
     "original_repository": "matiassingers/awesome-slack",
     "source_repository": "v1nvn/enhansome-slack",
     "source_repository_description": null,
